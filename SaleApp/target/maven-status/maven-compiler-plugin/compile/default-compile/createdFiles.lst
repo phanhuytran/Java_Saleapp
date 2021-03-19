@@ -1,0 +1,6 @@
+com\tph\service\ProductService.class
+com\tph\saleapp\Tester.class
+com\tph\pojo\Category.class
+com\tph\service\CategoryService.class
+com\tph\config\HibernateUtils.class
+com\tph\pojo\Product.class
